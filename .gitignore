@@ -2,3 +2,7 @@ _ReSharper.*
 *.resharper.user
 *.ReSharper.user
 packages
+bin
+obj
+/Training/obj
+/Tests/obj
